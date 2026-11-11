@@ -6,7 +6,7 @@ tags for your Etsy listing.
 
 **Use it online, nothing to download:** https://notzeroyet.com/idea-spinner/
 
-**Video tutorial:** coming soon.
+**Video tutorial:** [Watch the Idea Spinner walkthrough on YouTube](https://youtu.be/d5xb9wKOtu0)
 
 ## Open your own copy
 
